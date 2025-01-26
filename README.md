@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishi-Sidharda
 - 👀 I’m interested in ... Physics and Math
-- 🌱 I’m currently learning ... Nuclear Science
-- 💞️ I’m looking to collaborate on ... Physics Enginen  
+- 🌱 I’m currently learning ... Number theory
+- 💞️ I’m looking to collaborate on ... Physics Engine  
 - 📫 How to reach me ... rishisidharda@gmail.com
 
 <!---
