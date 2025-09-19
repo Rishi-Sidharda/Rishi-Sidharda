@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishi-Sidharda
-- 👀 I’m interested in ... Physics and Math
-- 🌱 I’m currently learning ... Number theory
+- 👀 I’m interested in ... Math
+- 🌱 I’m currently learning ... SHA256
 - 💞️ I’m looking to collaborate on ... Physics Engine  
 - 📫 How to reach me ... rishisidharda@gmail.com
 
